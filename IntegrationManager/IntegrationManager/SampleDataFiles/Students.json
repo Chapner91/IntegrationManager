@@ -23,6 +23,14 @@
       "GradeLevel": 1,
       "Advisor": "Carol",
       "Classes": [ "ARTS110" ]
+    },
+    {
+      "studentID": 4,
+      "FirstName": "Tim",
+      "LastName": "Law",
+      "GradeLevel": 1,
+      "Advisor": "Poorta",
+      "Classes": [ "BIOL101", "CHEM140" ]
     }
   ]
 }
