@@ -1,0 +1,6 @@
+﻿StudentID,Class,LetterGrade,Grade
+1,BIOL101,A-,91.2
+1,CHEM140,A,95.4
+2,BIOL101,A+,99.3
+2,CHEM140,A,93.3
+3,ARTS110,A,94.1

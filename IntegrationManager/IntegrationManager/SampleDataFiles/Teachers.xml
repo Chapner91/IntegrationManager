@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Teachers>
+  <Teacher>
+    <LastName>Poorta</LastName>
+    <Department>Life Sciences</Department>
+    <HireDate>2000-04-05</HireDate>
+  </Teacher>
+  <Teacher>
+    <LastName>Carol</LastName>
+    <Department>Humanities</Department>
+    <HireDate>2000-04-05</HireDate>
+  </Teacher>
+</Teachers>

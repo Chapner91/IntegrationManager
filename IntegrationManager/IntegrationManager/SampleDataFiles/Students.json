@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "studentID": 1,
+      "FirstName": "Jason",
+      "LastName": "Hapner",
+      "GradeLevel": 1,
+      "Advisor": "Poorta",
+      "Classes": [ "BIOL101", "CHEM140" ]
+    },
+    {
+      "studentID": 2,
+      "FirstName": "James",
+      "LastName": "Lutz",
+      "GradeLevel": 1,
+      "Advisor": "Poorta",
+      "Classes": [ "BIOL101", "CHEM140" ]
+    },
+    {
+      "studentID": 3,
+      "FirstName": "Angela",
+      "LastName": "Musk",
+      "GradeLevel": 1,
+      "Advisor": "Carol",
+      "Classes": [ "ARTS110" ]
+    }
+  ]
+}

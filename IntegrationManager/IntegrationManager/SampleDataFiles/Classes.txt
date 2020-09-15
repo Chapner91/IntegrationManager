@@ -1,0 +1,4 @@
+﻿ClassID|ClassCode|ClassName|ClassDescription|CreditHours|Department
+1|BIOL101|Introduction to Biology|Introductory class for biology majors|Life Sciences
+2|ARTS110|2D Design|An introduction to two dimensional art mediums|Humanities
+3|CHEM140|General Chemistry|An introductory chemistry class for science majors|Life Sciences
