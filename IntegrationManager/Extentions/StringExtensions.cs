@@ -17,5 +17,10 @@ namespace Extentions
 			return @this.Split(new[] { separator }, count);
 
 		}
+
+		public static bool IsNullOrEmpty(this string @this)
+		{
+			return string.IsNullOrEmpty(@this);
+		}
     }
 }
